@@ -1,7 +1,7 @@
-var TwoFooted = require("./TwoFooted");
+var Person = require("./Person");
 
 function Zombie(location, moves) {
-    TwoFooted.call(this, location);
+    Person.call(this, location);
 
     this.moves = moves;
 }

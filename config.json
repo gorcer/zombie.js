@@ -1,0 +1,12 @@
+{
+    "dimension": 4,
+    "posZombie": [1,1],
+    "posCreatures": [
+        [3,3],
+        [2,1],
+        [0,2]
+    ],
+    "moves": "RRRRD"
+}
+
+

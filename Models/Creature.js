@@ -1,8 +1,8 @@
-var TwoFooted = require("./TwoFooted");
+var Person = require("./Person");
 
 
 function Creature(location) {
-    TwoFooted.call(this, location);
+    Person.call(this, location);
 }
 
 module.exports = Creature;
